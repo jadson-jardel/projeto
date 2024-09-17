@@ -1,0 +1,48 @@
+H1 {
+    padding-left: 350PX;
+    font-size: 50PX;
+    text-decoration: underline black;
+}
+
+h2 {
+    padding-left: 600PX;
+    font-size: 50PX;
+    text-decoration: underline black;
+}
+
+a {
+    font-size: 30PX;
+    color: blue;
+    padding-left: 350px;
+}
+
+p {
+    font-size: 30px;
+    padding-left: 350px;
+}
+
+h3 { border-width: 2px;
+    font-size: 30px;
+    text-decoration: underline blue;
+    color: blue;
+    padding-left: 350px;
+}
+
+h4 {
+    font-size: 30px;
+    padding-left: 350px;
+    color: blue;
+    text-decoration: underline blue;
+}
+
+h5 {
+    font-size: 30px;
+    color: blue;
+    text-decoration: underline blue;padding-left: 350px;
+}
+h6{
+    font-size: 30px;
+    text-decoration: underline black;
+    padding-left: 700px;
+}
+div{text-align: center;}
